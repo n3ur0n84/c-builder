@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.01.10 00:42:27.745,=C:\# MyProgram\Project1PCH1.h</Transaction>
+    <Transaction>2022.01.10 00:42:28.289,=C:\# MyProgram\Unit1.cpp</Transaction>
+    <Transaction>2022.01.10 00:43:25.661,C:\# MyProgram\TestGitXE11\TestXE11\Unit1.cpp=C:\# MyProgram\Unit1.cpp</Transaction>
+    <Transaction>2022.01.10 00:43:25.661,C:\# MyProgram\TestGitXE11\TestXE11\Unit1.h=C:\# MyProgram\Unit1.h</Transaction>
+    <Transaction>2022.01.10 00:43:25.661,C:\# MyProgram\TestGitXE11\TestXE11\Unit1.dfm=C:\# MyProgram\Unit1.dfm</Transaction>
+    <Transaction>2022.01.10 00:43:26.823,C:\# MyProgram\TestGitXE11\TestXE11\Project1PCH1.h=C:\# MyProgram\Project1PCH1.h</Transaction>
+    <Transaction>2022.01.10 00:43:27.889,C:\# MyProgram\TestGitXE11\TestXE11\Project1.cbproj=C:\# MyProgram\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
